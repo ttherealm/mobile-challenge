@@ -1,0 +1,30 @@
+body{
+    padding: 30px;
+    
+}
+
+p{
+    width: 300px;
+}
+
+h1{
+    width: 250px;
+    font-weight: 700;
+}
+
+ p,h1,h5{
+    line-height: 1.5;
+ }
+ 
+.pricing{
+    text-decoration: line-through;
+    margin-left: 10px;
+}
+.price{
+    display: inline;
+}
+.btn{
+width: 280px;
+margin-top: 20px;
+margin-bottom: 30px;
+}
